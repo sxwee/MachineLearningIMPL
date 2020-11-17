@@ -20,4 +20,4 @@ python版本：3.6.11
 
 **对数几率回归（逻辑回归）**
 
-[机器学习(二)：理解并实现对数几率回归（logistic regression）](https://blog.csdn.net/qq_42103091/article/details/109357159)
+说明文档：[机器学习(二)：理解并实现对数几率回归（logistic regression）](https://blog.csdn.net/qq_42103091/article/details/109357159)
