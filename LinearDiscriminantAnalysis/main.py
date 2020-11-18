@@ -33,8 +33,8 @@ def Test():
         loc = classi.mean()
         scale = classi.std()
         gauss_dist[i] = {'loc':loc,'scale':scale}
-    test_x = np.dot(test_x,lda.w)
-    pred_y = np.array([judge(gauss_dist,x) for x in test_x])
+    test_x_new = np.dot(test_x,lda.w)
+    pred_y = np.array([judge(gauss_dist,x) for x in test_x_new])
     
     return accuracy_score(test_y,pred_y)
     
