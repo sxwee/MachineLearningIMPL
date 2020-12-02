@@ -21,3 +21,9 @@ python版本：3.6.11
 **对数几率回归（逻辑回归）**
 
 说明文档：[机器学习(二)：理解并实现对数几率回归（logistic regression）](https://blog.csdn.net/qq_42103091/article/details/109357159)
+
+------
+
+**线性判别分析(LDA)**
+
+说明文档：[机器学习(三)：一文读懂线性判别分析（LDA）](https://blog.csdn.net/qq_42103091/article/details/109786330)

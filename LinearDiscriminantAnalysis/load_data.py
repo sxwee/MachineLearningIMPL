@@ -12,3 +12,5 @@ def load_iris(file_path='./data/iris.csv',test_size=0.3):
     #打乱并划分测试集和训练集
     train_x,test_x,train_y,test_y = train_test_split(x,y,test_size=test_size,random_state=5)
     return train_x,test_x,train_y,test_y
+
+
