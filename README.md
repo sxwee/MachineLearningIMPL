@@ -2,13 +2,13 @@
 
 本项目主要记录一些机器学习实战的代码，后面会逐步更新各种机器学习算法模型的实现代码。
 
-# 环境
+# 环境配置
 
-python版本：3.6.11
+python版本：`3.6.11`
 
-依赖的库：numpy，sklearn，pandas，matplotlib
+依赖的库：`numpy，sklearn，pandas，matplotlib`
 
-理论指导：《机器学习》 周志华
+参考资料：《机器学习》 周志华
 
 # 模型说明文档
 
