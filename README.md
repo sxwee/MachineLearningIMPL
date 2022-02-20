@@ -36,6 +36,12 @@ Blog: [机器学习(五)：深入浅出PCA降维](https://blog.csdn.net/qq_42103
 
 ------
 
-朴素贝叶斯
+**朴素贝叶斯**
 
 Blog: [机器学习(六)：朴素贝叶斯及拉普拉斯修正](https://blog.csdn.net/qq_42103091/article/details/122405255?spm=1001.2014.3001.5501)
+
+------
+
+**感知机**
+
+Blog：[机器学习(七)：解读感知机模型](https://blog.csdn.net/qq_42103091/article/details/123024714?spm=1001.2014.3001.5501)
